@@ -27,25 +27,3 @@ h3{
 	font-style: italic;
 }
 
-.primero{
-	margin: 10px 635px 10px 10px;
-	border: 2px black solid;
-	padding: 2em;
-}
-
-.segundo{
-	margin: 10px 10px 10px 635px;
-	border: 2px black solid;
-	padding: 2em;
-}
-
-.tercero{
-	margin: 10px 635px 10px 10px;
-	border: 2px black solid;
-	padding: 2em;
-}
-.cuarto{
-	margin: 10px 10px 10px 635px;
-	border: 2px black solid;
-	padding: 2em;
-}
